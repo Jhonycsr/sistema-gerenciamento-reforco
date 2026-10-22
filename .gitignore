@@ -1,0 +1,14 @@
+gitignore
+build/
+dist/
+output/
+*.spec
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+dados_reforco.json
+
+.vscode/
+.idea/
