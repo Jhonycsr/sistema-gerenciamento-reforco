@@ -57,7 +57,7 @@ Bash
 python funcoes/interface_gui/app_gui.py
 💻 Versão Executável (.exe)
 O projeto foi empacotado para uso direto no Windows sem necessidade de instalação do Python.
-Você pode baixar a versão executável pronta para uso na seção de Releases do repositório.
+Você pode baixar a versão executável pronta para uso na seção de **[Releases](https://github.com/Jhonycsr/sistema-gerenciamento-reforco/releases)** do repositório.
 
 ✍️ Autor
 Desenvolvido por Jhonatan César Andrade Silva
