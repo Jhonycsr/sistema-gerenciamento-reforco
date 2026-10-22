@@ -37,7 +37,7 @@ gerenciamento_reforco/
 ├── __main__.py                   # Ponto de entrada da versão Terminal (CLI)
 ├── .gitignore                    # Filtro de arquivos de compilação
 └── README.md                     # Documentação do projeto
-
+```
 🚀 Como Executar o Projeto
 Pré-requisitos
 Ter o Python 3.x instalado em sua máquina.
