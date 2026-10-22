@@ -43,25 +43,28 @@ Pré-requisitos
 Ter o Python 3.x instalado em sua máquina.
 
 1. Clonar o Repositório
-Bash
+```Bash
 git clone [https://github.com/Jhonycsr/sistema-gerenciamento-reforco.git](https://github.com/Jhonycsr/sistema-gerenciamento-reforco.git)
 cd sistema-gerenciamento-reforco
+```
 2. Instalar as Dependências (apenas para a versão GUI)
-Bash
+```Bash
 pip install customtkinter
+```
 3. Executar a Versão Terminal (CLI)
-Bash
+```Bash
 python __main__.py
+```
 4. Executar a Versão com Interface Gráfica (GUI)
-Bash
+```Bash
 python funcoes/interface_gui/app_gui.py
+```
 💻 Versão Executável (.exe)
 O projeto foi empacotado para uso direto no Windows sem necessidade de instalação do Python.
 Você pode baixar a versão executável pronta para uso na seção de **[Releases](https://github.com/Jhonycsr/sistema-gerenciamento-reforco/releases)** do repositório.
 
 ✍️ Autor
-Desenvolvido por Jhonatan César Andrade Silva
+Desenvolvido por **Jhonatan César Andrade Silva**
 
-GitHub - https://github.com/Jhonycsr
-
-LinkedIn - https://www.linkedin.com/in/jhonatan-c%C3%A9sar-97213b446/
+- [GitHub](https://github.com/Jhonycsr)
+- [LinkedIn](https://www.linkedin.com/in/jhonatan-c%C3%A9sar-97213b446/)
