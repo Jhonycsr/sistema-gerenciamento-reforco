@@ -34,3 +34,21 @@ gerenciamento_reforco/
 ├── __main__.py                   # Ponto de entrada da versão Terminal (CLI)
 ├── .gitignore                    # Filtro de arquivos de compilação
 └── README.md                     # Documentação do projeto
+
+🚀 Como Executar o Projeto
+Pré-requisitos
+Ter o Python 3.x instalado em sua máquina.
+
+1. Clonar o Repositório -> git clone [https://github.com/Jhonycsr/sistema-gerenciamento-reforco.git](https://github.com/Jhonycsr/sistema-gerenciamento-reforco.git)
+cd SEU-REPOSITORIO
+2. Instalar as Dependências (apenas para a versão GUI) -> pip install customtkinter
+3. Executar a Versão Terminal (CLI) -> python __main__.py
+4. Executar a Versão com Interface Gráfica (GUI) -> python funcoes/interface_gui/app_gui.py
+
+💻 Versão Executável (.exe)
+O projeto foi empacotado para uso direto no Windows sem necessidade de instalação do Python.
+Você pode baixar a versão executável pronta para uso na seção de Releases do repositório.
+
+✍️ Autor
+Desenvolvido por Jhonatan César Andrade Silva - [Github: Jhonycsr](https://github.com/Jhonycsr) | https://www.linkedin.com/in/jhonatan-c%C3%A9sar-97213b446/
+
